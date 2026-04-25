@@ -1,0 +1,8 @@
+flask
+nibabel
+numpy
+torch
+torchvision
+scikit-image
+matplotlib
+werkzeug
